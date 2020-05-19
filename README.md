@@ -8,7 +8,6 @@
 * JavaScript
 * HTML | EJS
 * CSS
-* GitHub Pages
 
 ## Screenshots:
 
