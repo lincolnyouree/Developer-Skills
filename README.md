@@ -12,6 +12,6 @@
 
 ## Screenshots:
 
-![Wireframe]()
-![Wireframe]()
-![Wireframe]()
+![Wireframe](https://i.imgur.com/0RtN1NX.png)
+![Wireframe](https://i.imgur.com/iz0ezeo.png)
+![Wireframe](https://i.imgur.com/dQEdcQh.png)

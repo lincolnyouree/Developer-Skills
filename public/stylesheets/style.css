@@ -1,39 +1,29 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: yellow;
-  color: red;
+  padding: 2vmin;
+  font: 3vmin "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url(https://i.imgur.com/IQPkSV7.jpg);
 }
 
 a {
-  color: blue;
+  color: red;
  
 }
 
 a:hover {
-  color: white;
+  color: blue;
 }
 
 h1 {
-  color: red;
-  text-align: center;
+  padding: 2vmin;
 }
 
 h3 {
   color: blue;
 }
 
-ul {
-  color: red;
-}
-
 .delete-form {
   display: inline-block;
-  margin-right: 10px;
-}
-
-.delete-form button {
-  color: red;
+  margin-right: 1vmin;
 }
 
 li {
